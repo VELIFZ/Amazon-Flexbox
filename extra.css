@@ -14,7 +14,6 @@ body{
 body {
     padding: 0;
     margin: 0;
-    background: rgb(252, 252, 252);
     display: block;
     min-height: 100%;
     color:black;
@@ -123,9 +122,11 @@ h4 {
     margin: 10px 0 10px;
     position: relative;
     margin-left: 110px;
+    border-bottom: 1px solid rgb(179, 173, 173);
+    line-height: 0.1em;
 }
 
-#h4 span {
+h4 span {
     background: rgb(255, 254, 254);
     padding: 0 10px;
 }

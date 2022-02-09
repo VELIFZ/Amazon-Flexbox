@@ -24,7 +24,15 @@ font-size: 12px;
 text-align: center;
 margin: 10px 0 10px;
 position: relative;
-margin-left: 110px;}
+margin-left: 110px;
+border-bottom: 1px solid rgb(179, 173, 173);
+line-height: 0.1em;
+}
+
+h5 span {
+    background: rgb(255, 254, 254);
+    padding: 0 10px;
+}
 
 li {
     display: inline;
